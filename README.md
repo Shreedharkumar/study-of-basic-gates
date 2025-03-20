@@ -1,4 +1,8 @@
-### study-of-basic-gates
+NAME: SHREEDHAR KUMAR K.J
+
+REGISTER NO: 212224230265
+
+### EX NO: 1- STUDY OF BASIC GATES
 
 **AIM:** 
 
@@ -61,19 +65,24 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
-
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+![WhatsApp Image 2025-03-20 at 10 39 03_a9c11f00](https://github.com/user-attachments/assets/f8d7d3f7-2b8b-44c1-b220-5c84dbc82837)
 
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
+
+![423819086-284ed730-5cd3-4c0c-bcca-518a52b73309](https://github.com/user-attachments/assets/24d3b82f-ec82-485a-a51b-89cae7536c49)
 
 **RTL realization Output:** 
 
-**RTL**
+![WhatsApp Image 2025-03-20 at 11 02 01_216e434e](https://github.com/user-attachments/assets/cd3bd073-2b6a-4a8c-9c9b-1f2247c88e1f)
+
+
+**WAVE FORM**
+
+![422891000-b42a8ac5-56d5-42bb-90bc-5bb3a542a8bb](https://github.com/user-attachments/assets/427dc3bd-b814-4ad2-bcd8-38601172f4c7)
 
 **Result:**
 
+Therefore the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
 
